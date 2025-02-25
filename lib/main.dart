@@ -117,11 +117,11 @@ class _MyHomePageState extends State<MyHomePage> {
               size: 100,
             ),
 
-            // Image.asset(
-            //   "assets/dog-1.jpg",
-            //   // width: 300,
-            //   // height: 300,
-            // ),
+            Image.asset(
+              "assets/dog-1.jpg",
+              width: 300,
+              height: 300,
+            ),
             // Image taken from the web
             // Image.network(
             //   "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=2043&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
