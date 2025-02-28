@@ -110,7 +110,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
             ),
-            Text("My name is John Cristopher Mateo"),
+            Text("My name is Gio Anthony Callos"),
             Icon(
               Icons.mail,
               color: Colors.pink,
