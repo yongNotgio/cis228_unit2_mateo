@@ -1,0 +1,2 @@
+C:/Users/gioan/Documents/GitHub/cis228_unit2_mateo/android/app/.cxx/Debug/2f6ee6c1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/gioan/Documents/GitHub/cis228_unit2_mateo/android/app/.cxx/Debug/2f6ee6c1/x86_64/CMakeFiles/rebuild_cache.dir
